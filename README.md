@@ -1,5 +1,4 @@
 PhD: Solid State Physics
-
 Subject Area: Condensed Matter Physics
 
 Research Field: Electronic Properties and Materials
